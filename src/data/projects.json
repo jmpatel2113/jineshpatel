@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Mock Mentor",
+      "imageSrc": "projects/projects.png",
+      "description": "AI-Generated Mock Interview service that lets users practice interviews with the help of questions & feedback constructed by AI.",
+      "skills": ["NextJs", "Gemini API", "Stripe", "Tailwind CSS"],
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Stock Trend Prediction Model",
+      "imageSrc": "projects/projects.png",
+      "description": "Machin Learning Model that predicts the trend of the price of any stock.",
+      "skills": ["Python", "LSTM Model", "Keras", "Streamlit"],
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Web Portfolio",
+      "imageSrc": "projects/projects.png",
+      "description": "A Web Portfolio demonstrating my expertise in software development, particularly web development.",
+      "skills": ["React", "Figma", "CSS"],
+      "source": "https://www.github.com"
+    }
+  ]

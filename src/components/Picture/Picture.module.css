@@ -1,0 +1,70 @@
+@import "../../variables.css";
+
+.container{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 49px;
+    z-index: 1;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    color: var(--color-text);
+    z-index: 1;
+}
+
+.title{
+    font-size: 72px;
+    font-weight: 900;
+    margin-bottom: 33px;
+    font-family: var(--font-roboto);
+    color: var(--color-intro-text);
+}
+
+.description{
+    font-size: 30px;
+    font-family: var(--font-outfit);
+    margin-bottom: 52px;
+    color: var(--color-intro-text);
+}
+
+.contactButton{
+    text-decoration: none;
+    background-color: var(--background-color-contact);
+    color: var(--color-intro-text);
+    border-radius: 20px;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 17px 26px;
+    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.5);
+}
+
+.contactButton:hover{
+    box-shadow: 0 0 6px 0 black;
+}
+
+.Picture{
+    border-radius: 50%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    align-self: center;
+    box-shadow: 0 0 10px 0 rgba(57, 95, 47, 0.5);
+    width: 50%;
+    z-index: 1;
+}
+
+@media screen and (max-width: 830px) {
+    .container{
+        flex-direction: column-reverse;
+    }
+
+    .content{
+        align-items: center;
+    }
+}

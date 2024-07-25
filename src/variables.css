@@ -1,0 +1,15 @@
+:root{
+    /*fonts*/
+    --font-roboto: "Roboto";
+    --font-outfit: "Outfit";
+
+    /*colors*/
+    --color-website: rgb(255, 228, 196);
+    --color-intro-text: rgb(64, 138, 222);
+    --color-about-text: rgb(13, 84, 5);
+    --color-experience-text: rgb(103, 70, 30);
+    --background-color-experience: rgb(243, 196, 139);
+    --color-projects: rgb(105, 172, 218);
+    --background-color-contact: rgb(240, 240, 240);
+    --color-text: rgb(222, 109, 28);
+}

@@ -1,0 +1,65 @@
+@import "../../variables.css";
+
+.container{
+    color: rgb(64, 138, 222);
+    margin-top: 100px;
+    background-color: var(--background-color-contact);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 100%;
+    padding: 60px 10%;
+    gap: 50px;
+}
+
+.text h1{
+    font-size: 100px;
+    font-weight: 700;
+    letter-spacing: 3px;
+}
+
+.text p{
+    font-size: 35px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+
+.contactInfo{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    list-style: none;
+    gap: 30px;
+}
+
+.info{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+
+.info a{
+    color: black;
+    text-decoration: underline;
+}
+
+@media screen and(max-width: 830px) {
+    .container{
+        flex-direction: column;
+        gap: 25px;
+    }
+
+    .text{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .contactInfo{
+        align-items: center;
+    }
+}

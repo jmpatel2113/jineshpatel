@@ -16,7 +16,7 @@ const Contact = () => {
             LinkedIn Link:<a href="https://www.linkedin.com/in/jineshpatel02">LinkedIn.com/Jinesh Patel</a>
             </li>
             <li className={styles.info}>
-            Github Link:<a href="https://https://github.com/jmpatel2113">Github.com/Jinesh Patel</a>
+            Github Link:<a href="https://github.com/jmpatel2113">Github.com/Jinesh Patel</a>
             </li>
         </ul>
     </footer>

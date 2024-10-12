@@ -2,7 +2,7 @@
     {
       "title": "Mock Mentor",
       "imageSrc": "projects/projects.png",
-      "description": "AI-Generated Mock Interview service that lets users practice interviews with the help of questions & feedback constructed by AI.",
+      "description": "AI-Generated Mock Interview service where users can practice interviews with instant & accurate feedback constructed by AI.",
       "skills": ["NextJs", "Gemini API", "Drizzle", "Tailwind CSS"],
       "source": "https://github.com/jmpatel2113/Mock-Mentor"
     },
@@ -11,7 +11,7 @@
       "imageSrc": "projects/projects.png",
       "description": "REST API that registers new users and does CRUD operations on the data with authentication.",
       "skills": ["Node.js", "Express", "Typescript", "MongoDB"],
-      "source": "https://github.com"
+      "source": "https://github.com/jmpatel2113/rest-api"
     },
     {
       "title": "Stock Trend Prediction Model",
@@ -23,7 +23,7 @@
     {
       "title": "Web Portfolio",
       "imageSrc": "projects/projects.png",
-      "description": "A Web Portfolio demonstrating my expertise in software development, particularly web development.",
+      "description": "A Web Portfolio demonstrating my experience in software development, particularly web development.",
       "skills": ["React", "Bootstrap", "CSS"],
       "source": "https://github.com/jmpatel2113/jineshpatel"
     }

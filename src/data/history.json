@@ -1,23 +1,23 @@
 [
     {
+      "role": "Software Developer Fellow",
+      "organization": "Headstarter AI",
+      "startDate": "July, 2024",
+      "endDate": "September, 2024",
+      "experiences": ["Developed multiple full-stack projects", "Built AI-generated mock interview service"]
+    },
+    {
       "role": "Student IT Consultant",
-      "organisation": "Rutgers University",
+      "organization": "Rutgers University",
       "startDate": "April, 2023",
       "endDate": "Januray, 2024",
       "experiences": ["Troublshot problems over calls, emails & walk-ins", "Solved & documented IT related issues"]  
     },
     {
       "role": "IoT Intern",
-      "organisation": "Triotos",
+      "organization": "Triotos",
       "startDate": "May, 2022",
       "endDate": "June, 2022",
       "experiences": ["Collected data from Raspberry Pi sensors", "Ran simulations with the collected data"]
-    },
-    {
-      "role": "Student Help Desk",
-      "organisation": "PHS Technology Services and Solutions",
-      "startDate": "Jan, 2020",
-      "endDate": "Apr, 2020",
-      "experiences": ["Solved school chromebook problems", "Enrolled and powerwashed new & old chromebooks"]
     }
   ]

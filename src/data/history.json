@@ -1,23 +1,30 @@
 [
     {
+      "role": "Web Developer Intern",
+      "organization": "Thaddeus",
+      "startDate": "November, 2024",
+      "endDate": "Present",
+      "experiences": ["Developing the site using NextJs, TypeScript, Tailwind CSS, and Firebase", "Collaborating using the Agile Methodology and Scrum Framework"]
+    },
+    {
       "role": "Software Developer Fellow",
       "organization": "Headstarter AI",
       "startDate": "July, 2024",
       "endDate": "September, 2024",
-      "experiences": ["Developed multiple full-stack projects", "Built AI-generated mock interview service"]
+      "experiences": ["Developed multiple full-stack projects in a team", "Built AI-generated mock interview service using Google Gemini"]
     },
     {
-      "role": "Student IT Consultant",
+      "role": "Student IT Support",
       "organization": "Rutgers University",
       "startDate": "April, 2023",
       "endDate": "Januray, 2024",
-      "experiences": ["Troublshot problems over calls, emails & walk-ins", "Solved & documented IT related issues"]  
+      "experiences": ["Troublshoot IT related problems over calls, emails & walk-ins for students", "Solved & documented IT related issues on ServiceNow"]  
     },
     {
       "role": "IoT Intern",
       "organization": "Triotos",
       "startDate": "May, 2022",
       "endDate": "June, 2022",
-      "experiences": ["Collected data from Raspberry Pi sensors", "Ran simulations with the collected data"]
+      "experiences": ["Collected temperature, humidity, and motion from Raspberry Pi sensors", "Ran simulations with the collected data"]
     }
   ]

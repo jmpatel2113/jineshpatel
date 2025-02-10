@@ -7,13 +7,13 @@ const Picture = () => {
   <section className={styles.container}>
     <div className={styles.content}>
         <h1 className={styles.title}>Hi. I'm Jinesh</h1>
-        <p className={styles.description}>I'm a college student at the Rutgers University majoring in
-            Computer Science. I like to learn and build software applications that tackle real-world
-            challenges through which I can make real-life impact. Reach out if you'd 
+        <p className={styles.description}>I'm a junior at Rutgers University majoring in
+            Computer Science. I am interested in learning and building software applications that tackle real-world
+            problems. Particulaly, I am impactful in web development because I have prior experience and projects. Reach out if you'd 
             like to learn more!
         </p>
         <a href="https://mailto:jmpatel2113@gmail.com" className={styles.contactButton}>Contact Me</a>
-        <img src={getImageUrl("ProfilePicture/ProfilePicture.jpg")} alt="Profile Picture Here" className={styles.Picture}/>
+        <img src={getImageUrl("ProfilePicture/ProfilePicture.jpg")} alt="Profile Picture" className={styles.Picture}/>
     </div>
   </section>
   );

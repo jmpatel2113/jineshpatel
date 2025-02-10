@@ -10,18 +10,18 @@ const About = () => {
             <ul className={styles.items}>
                 <li className={styles.eachItem}>
                     <div className={styles.descriptions}>
-                        <h3>Front-end Developer</h3>
-                        <p>I'm a front-end developer with experience in building 
-                            responsive and robust websites and applications while using APIs.
+                        <h3>Web Developer</h3>
+                        <p>I'm a web developer with experience in building responsive and robust websites
+                            and applications while integrating APIs and backend database.
                         </p>
                     </div>
                 </li>
                 <li className={styles.eachItem}>
                     <div className={styles.descriptions}>
-                        <h3>Student at Rutgers University</h3>
-                        <p>I'm a college student attending Rutgers University in New Brunswick, NJ.
-                            I'm majoring in Computer Science with B.S. degree who is expected to
-                            graduate in December 2025.
+                        <h3>Junior at Rutgers University</h3>
+                        <p>I'm a junior attending Rutgers University in New Brunswick, NJ.
+                            I'm majoring in Computer Science with B.S. degree and am expected to
+                            graduate in December 2025. I also have minor in Business Administration.
                         </p>
                     </div>
                 </li>
@@ -29,7 +29,7 @@ const About = () => {
                     <div className={styles.descriptions}>
                         <h3>Family and Friends Person</h3>
                         <p>I love spending time with my family and hanging out with my Friends
-                            as well as connect with new people. 
+                            and connect with new people through clubs and sports. 
                         </p>
                     </div>
                 </li>

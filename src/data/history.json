@@ -4,14 +4,14 @@
       "organization": "Thaddeus",
       "startDate": "November, 2024",
       "endDate": "Present",
-      "experiences": ["Developing the site using NextJs, TypeScript, Tailwind CSS, and Firebase", "Collaborating using the Agile Methodology and Scrum Framework"]
+      "experiences": ["Developing the website using NextJs, TypeScript, Tailwind CSS, and Firebase", "Collaborating using the Agile Methodology and Scrum Framework"]
     },
     {
       "role": "Software Developer Fellow",
       "organization": "Headstarter AI",
       "startDate": "July, 2024",
       "endDate": "September, 2024",
-      "experiences": ["Developed multiple full-stack projects in a team", "Built AI-generated mock interview service using Google Gemini"]
+      "experiences": ["Developed multiple full-stack projects in a team", "Built AI-generated mock interview service using Google Gemini AI API"]
     },
     {
       "role": "Student IT Support",
@@ -25,6 +25,6 @@
       "organization": "Triotos",
       "startDate": "May, 2022",
       "endDate": "June, 2022",
-      "experiences": ["Collected temperature, humidity, and motion from Raspberry Pi sensors", "Ran simulations with the collected data"]
+      "experiences": ["Collected temperature, humidity, and motion data from Raspberry Pi sensors", "Ran simulations with the collected data to obtain insights for customers"]
     }
   ]

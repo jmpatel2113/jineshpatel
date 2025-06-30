@@ -16,10 +16,6 @@
       "imageSrc": "skills/nextjs.png"
     },
     {
-      "title": "React",
-      "imageSrc": "skills/react.png"
-    },
-    {
       "title": "C",
       "imageSrc": "skills/c.png"
     },
@@ -32,11 +28,20 @@
       "imageSrc": "skills/css.png"
     },
     {
-      "title": "Figma",
-      "imageSrc": "skills/figma.png"
+      "title": "Firebase",
+      "imageSrc": "skills/firebase.png"
     },
     {
-      "title": "Bootstrap",
-      "imageSrc": "skills/bootstrap.png"
+      "title": "Git",
+      "imageSrc": "skills/git.png"
+    },
+    {
+      "title": "SQL",
+      "imageSrc": "skills/sql.png"
+    },
+    {
+      "title": "Selenium",
+      "imageSrc": "skills/selenium.png"
     }
+    
   ]

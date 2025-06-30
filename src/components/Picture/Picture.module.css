@@ -34,6 +34,13 @@
     color: var(--color-intro-text);
 }
 
+.description1{
+    margin-top: 20px;
+    font-size: 30px;
+    font-family: var(--font-outfit);
+    color: var(--color-intro-text);
+}
+
 .contactButton{
     text-decoration: none;
     background-color: var(--background-color-contact);

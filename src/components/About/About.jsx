@@ -18,8 +18,18 @@ const About = () => {
                 </li>
                 <li className={styles.eachItem}>
                     <div className={styles.descriptions}>
-                        <h3>Junior at Rutgers University</h3>
-                        <p>I'm a junior attending Rutgers University in New Brunswick, NJ.
+                        <h3>Aspiring Cloud Solutions Arhitect</h3>
+                        <p>I'm an aspiring cloud solutions architect with a passion for designing
+                            and implementing scalable and secure cloud-based solutions using AWS tools and services.
+                            I'm currently learning AWS through AWS Cloud Institute program developed and 
+                            led by AWS insturctors and engineers.
+                        </p>
+                    </div>
+                </li>
+                <li className={styles.eachItem}>
+                    <div className={styles.descriptions}>
+                        <h3>Senior at Rutgers University</h3>
+                        <p>I'm a senior attending Rutgers University in New Brunswick, NJ.
                             I'm majoring in Computer Science with B.S. degree and am expected to
                             graduate in December 2025. I also have minor in Business Administration.
                         </p>

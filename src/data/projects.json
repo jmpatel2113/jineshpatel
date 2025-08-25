@@ -31,7 +31,7 @@
       "title": "Web Portfolio",
       "imageSrc": "projects/projects.png",
       "description": "A Web Portfolio demonstrating my experience in software development, particularly web development.",
-      "skills": ["React", "Tailwind CSS", "Git"],
+      "skills": ["React", "CSS", "Git"],
       "source": "https://github.com/jmpatel2113/jineshpatel"
     }
   ]

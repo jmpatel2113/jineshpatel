@@ -41,7 +41,13 @@
     color: var(--color-intro-text);
 }
 
-.contactButton{
+.buttonRow{
+    display: flex;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.contactResumeButton{
     text-decoration: none;
     background-color: var(--background-color-contact);
     color: var(--color-intro-text);
@@ -52,7 +58,7 @@
     box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.5);
 }
 
-.contactButton:hover{
+.contactResumeButton:hover{
     box-shadow: 0 0 6px 0 black;
 }
 

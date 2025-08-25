@@ -10,18 +10,18 @@ const About = () => {
             <ul className={styles.items}>
                 <li className={styles.eachItem}>
                     <div className={styles.descriptions}>
-                        <h3>Web Developer</h3>
-                        <p>I'm a web developer with experience in building responsive and robust websites
-                            and applications while integrating APIs and backend database.
+                        <h3>Software Developer</h3>
+                        <p>I'm a software developer with experience in building responsive and robust
+                            applications while integrating components, APIs and backend database.
                         </p>
                     </div>
                 </li>
                 <li className={styles.eachItem}>
                     <div className={styles.descriptions}>
-                        <h3>Aspiring Cloud Solutions Arhitect</h3>
-                        <p>I'm an aspiring cloud solutions architect with a passion for designing
+                        <h3>Aspiring Cloud Application Developer</h3>
+                        <p>I'm an aspiring cloud app developer with a passion for designing
                             and implementing scalable and secure cloud-based solutions using AWS tools and services.
-                            I'm currently learning AWS through AWS Cloud Institute program developed and 
+                            I'm currently learning AWS technologies through AWS Cloud Institute program developed and 
                             led by AWS insturctors and engineers.
                         </p>
                     </div>
@@ -31,7 +31,7 @@ const About = () => {
                         <h3>Senior at Rutgers University</h3>
                         <p>I'm a senior attending Rutgers University in New Brunswick, NJ.
                             I'm majoring in Computer Science with B.S. degree and am expected to
-                            graduate in December 2025. I also have minor in Business Administration.
+                            graduate in January 2026. I also have minor in Business Administration.
                         </p>
                     </div>
                 </li>

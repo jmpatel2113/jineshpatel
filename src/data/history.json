@@ -1,10 +1,17 @@
 [
     {
-      "role": "Web Developer Intern",
+      "role": "Software Engineer Intern",
+      "organization": "Tuvalabs Inc.",
+      "startDate": "June, 2025",
+      "endDate": "August, 2025",
+      "experiences": ["Built dynamic dashboard using React(frontend) & FastAPI(backend apis)", "Participated in code reviews and wrote unit tests to ensure code quality" ]
+    },
+    {
+      "role": "Software Engineer Intern",
       "organization": "Thaddeus",
       "startDate": "November, 2024",
       "endDate": "Present",
-      "experiences": ["Developing the website using NextJs, TypeScript, Tailwind CSS, and Firebase", "Collaborating using the Agile Methodology and Scrum Framework"]
+      "experiences": ["Developing the website using React, TypeScript, Tailwind CSS, and Firebase", "Collaborating using the Agile Methodology and Scrum Framework"]
     },
     {
       "role": "Software Developer Fellow",
@@ -21,7 +28,7 @@
       "experiences": ["Troublshoot IT related problems over calls, emails & walk-ins for students", "Solved & documented IT related issues on ServiceNow"]  
     },
     {
-      "role": "IoT Intern",
+      "role": "Technology Intern",
       "organization": "Triotos",
       "startDate": "May, 2022",
       "endDate": "June, 2022",

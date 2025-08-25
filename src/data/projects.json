@@ -3,28 +3,28 @@
       "title": "Mock Mentor",
       "imageSrc": "projects/projects.png",
       "description": "AI-Generated Mock Interview service where users can practice interviews with instant & accurate feedback constructed by AI.",
-      "skills": ["NextJs", "Gemini API", "Drizzle", "Tailwind CSS"],
+      "skills": ["NextJs", "Gemini AI", "Node.js", "Tailwind CSS"],
       "source": "https://github.com/jmpatel2113/Mock-Mentor"
     },
     {
       "title": "REST API",
       "imageSrc": "projects/projects.png",
       "description": "REST API that registers new users and does CRUD operations on the data with authentication.",
-      "skills": ["Node.js", "Express", "Typescript", "MongoDB"],
+      "skills": ["Typescript", "Node.js", "Express", "MongoDB"],
       "source": "https://github.com/jmpatel2113/rest-api"
     },
     {
       "title": "Stock Trend Prediction Model",
       "imageSrc": "projects/projects.png",
       "description": "Machin Learning Model that predicts the trend of the price of any stock.",
-      "skills": ["Python", "LSTM Model", "Keras", "Streamlit"],
+      "skills": ["Python", "Pandas", "Keras", "Scikit-learn"],
       "source": "https://github.com/jmpatel2113/stock-trend-prediction-app"
     },
     {
       "title": "Web Portfolio",
       "imageSrc": "projects/projects.png",
       "description": "A Web Portfolio demonstrating my experience in software development, particularly web development.",
-      "skills": ["React", "Bootstrap", "CSS"],
+      "skills": ["React", "Tailwind CSS", "Git"],
       "source": "https://github.com/jmpatel2113/jineshpatel"
     }
   ]

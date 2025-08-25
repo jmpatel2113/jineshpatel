@@ -10,9 +10,9 @@ const Picture = () => {
         <p className={styles.description}>I'm a senior at <strong>Rutgers University</strong> majoring in <strong>Computer Science</strong> with a minor in Business Administration. 
           
           <p className={styles.description1}>I'm passionate about learning and building <strong>software applications</strong> that address real-world challenges. 
-             With a strong background in <strong>web development</strong> and hands-on project experience, I enjoy creating impactful, user-focused solutions. 
+             With a strong background in <strong>software development</strong> and hands-on project experience, I enjoy creating impactful, user-focused solutions. 
           </p>
-          <p className={styles.description1}>I'm also an <strong>aspiring cloud solutions architect/developer</strong> with growing expertise in <strong>AWS</strong> tools and technologies. 
+          <p className={styles.description1}>I'm also an <strong>aspiring cloud application developer</strong> with growing expertise in <strong>AWS</strong> tools and technologies. 
              Feel free to reach out if you'd like to connect or learn more!
           </p>
         </p>

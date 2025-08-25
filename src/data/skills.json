@@ -1,5 +1,9 @@
 [
     {
+      "title": "Python",
+      "imageSrc": "skills/python.png"
+    },
+    {
       "title": "Java",
       "imageSrc": "skills/java.png"
     },
@@ -8,36 +12,36 @@
       "imageSrc": "skills/javascript.png"
     },
     {
-      "title": "Python",
-      "imageSrc": "skills/python.png"
-    },
-    {
-      "title": "Next.js",
-      "imageSrc": "skills/nextjs.png"
+      "title": "React.js",
+      "imageSrc": "skills/react.png"
     },
     {
       "title": "C",
       "imageSrc": "skills/c.png"
     },
     {
-      "title": "HTML",
-      "imageSrc": "skills/html.png"
-    },
-    {
-      "title": "CSS",
-      "imageSrc": "skills/css.png"
-    },
-    {
-      "title": "Firebase",
-      "imageSrc": "skills/firebase.png"
+      "title": "Django",
+      "imageSrc": "skills/django.png"
     },
     {
       "title": "Git",
       "imageSrc": "skills/git.png"
     },
     {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "Node.js",
+      "imageSrc": "skills/nodejs.png"
+    },
+    {
       "title": "SQL",
       "imageSrc": "skills/sql.png"
+    },
+    {
+      "title": "Tailwind CSS",
+      "imageSrc": "skills/css.png"
     },
     {
       "title": "Selenium",

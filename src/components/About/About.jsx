@@ -21,8 +21,6 @@ const About = () => {
                         <h3>Aspiring Cloud Application Developer</h3>
                         <p>I'm an aspiring cloud app developer with a passion for designing
                             and implementing scalable and secure cloud-based solutions using AWS tools and services.
-                            I'm currently learning AWS technologies through AWS Cloud Institute program developed and 
-                            led by AWS insturctors and engineers.
                         </p>
                     </div>
                 </li>
@@ -32,6 +30,14 @@ const About = () => {
                         <p>I'm a senior attending Rutgers University in New Brunswick, NJ.
                             I'm majoring in Computer Science with B.S. degree and am expected to
                             graduate in January 2026. I also have minor in Business Administration.
+                        </p>
+                    </div>
+                </li>
+                <li className={styles.eachItem}>
+                    <div className={styles.descriptions}>
+                        <h3>AWS Cloud Institute Student</h3>
+                        <p>I'm currently learning AWS technologies through AWS Cloud Institute 
+                            program developed and led by AWS engineers and insturctors.
                         </p>
                     </div>
                 </li>

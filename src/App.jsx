@@ -15,8 +15,8 @@ function App() {
       <Picture/>
       <About/>
       <Experience/>
-      <Projects/>
       <Certifications/>
+      <Projects/>
       <Contact/>
     </div>
   )

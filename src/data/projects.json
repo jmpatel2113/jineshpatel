@@ -1,5 +1,12 @@
 [
     {
+      "title": "AWS Cloud Capstone Project: Customer Onboarding (KYC) Application",
+      "imageSrc": "projects/projects.png",
+      "description": "Serverless app architecture that validates Know Your Customer(KYC) documents submitted by a customer-CSV file with customer details, a selfie & a driver's license image",
+      "skills": ["Lambda", "DynamoDB", "Rekogniton", "Textract", "IAM", "S3"],
+      "source": "https://github.com/jmpatel2113/aws-capstone-1-project"
+    },
+    {
       "title": "Mock Mentor",
       "imageSrc": "projects/projects.png",
       "description": "AI-Generated Mock Interview service where users can practice interviews with instant & accurate feedback constructed by AI.",
